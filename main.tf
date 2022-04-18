@@ -17,8 +17,3 @@ resource "okta_group" "Terraform" {
   name        = "terraform_test"
   description = "My terraform Group"
 }
-
-resource "okta_group" "Git_test" {
-  name        = "Git_test"
-  description = "My Git Group"
-}
