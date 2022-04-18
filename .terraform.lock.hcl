@@ -1,0 +1,24 @@
+# This file is maintained automatically by "terraform init".
+# Manual edits may be lost in future updates.
+
+provider "registry.terraform.io/okta/okta" {
+  version     = "3.23.0"
+  constraints = "3.23.0"
+  hashes = [
+    "h1:xAoKIcLTIlYSLlmNAJtRp7xjif3c2rq9SX4/PvUNle0=",
+    "zh:0d6742f8f4d264dbaeb8cbd9c2b93029bb7c51519650d4fe6ddf4b299abadc70",
+    "zh:1a15d60ec80d3534611133fe47e84c10f8d4886e78977c584f0c1507f64866e0",
+    "zh:24d3e6460ae6397c71607bbe1b165f4ec250d4aa9f22079ee7f919468344540d",
+    "zh:27e1c85b462418d693fbd9bf7bfab2989c779511ccac09fb81188df0e9415d6f",
+    "zh:3766d16d9b38d76bb7d277b309c58b88f555177d210f633a9b77f077dd887644",
+    "zh:3d830a86260ae2979917a78de2c69b2da7471a1ccef18381cd1e176abe0cf0fe",
+    "zh:407b3ad83904f6a9ecdfc516093d4a8850e603c008a188a08c2b737f73a222a1",
+    "zh:7c0b83d90d494a78db74c8ea50aba374271a57b86f299fe4cb7acb50a1b04a96",
+    "zh:7df2634e5882b24715311e23216804b4fa735d50f5625853d896c1b12108127d",
+    "zh:826203dd628359b9e5d8f7c7617361278997f66460f80c1148122a0febce8d3f",
+    "zh:8a8a6bb987ceff9507cda1a2dbab4597a8969f51611e4f4e3ed246abe0df2b35",
+    "zh:b42600c232aaa9ec0a97728e8706a3eb211a473f3269fb1d1b66041044b673e8",
+    "zh:cfb71b67026273041aa048b9038588f44a97538f4e2613b18d5a4ee8802028f0",
+    "zh:f3c91b749ebfc517d51b28696e16a4e3471bd9a6f42cfcdc9635cbd7aad81609",
+  ]
+}
